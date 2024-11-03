@@ -1,6 +1,6 @@
-# notes_app
+# 📒 Flutter Notes App
 
-A new Flutter project.
+A basic notes app built with Flutter. This project is still in progress and will eventually let users create, edit, and delete notes.
 
 ## Getting Started
 
