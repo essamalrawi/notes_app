@@ -1,16 +1,11 @@
-# notes_app
+# 📒 Flutter Notes App
 
-A new Flutter project.
+A basic notes app built with Flutter. This project is still in progress and will eventually let users create, edit, and delete notes.
 
-## Getting Started
+## 📋 Features (Coming Soon)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Add Notes**: Create new notes by entering a title and content.
+- **Delete Notes**: Remove notes easily with a delete option.
+- **Search for a Note**: Quickly find notes by searching for keywords.
+- **Last Edit Timestamp**: Each note shows the date and time it was last edited.
+ 
