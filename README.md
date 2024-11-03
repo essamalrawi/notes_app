@@ -4,9 +4,8 @@ A basic notes app built with Flutter. This project is still in progress and will
 
 ## 📋 Features (Coming Soon)
 
-<ul>
-  <li>Add notes</li>
-  <li>Delete notes</li>
-  <li>Search for a note</li>
-</ul>
+- **Add Notes**: Create new notes by entering a title and content.
+- **Delete Notes**: Remove notes easily with a delete option.
+- **Search for a Note**: Quickly find notes by searching for keywords.
+- **Last Edit Timestamp**: Each note shows the date and time it was last edited.
  
