@@ -1,0 +1,8 @@
+"filename", "language", "Swift", "XML", "JSON", "comment", "blank", "total"
+"c:\dev\notes_app\macos\Flutter\GeneratedPluginRegistrant.swift", "Swift", 6, 0, 0, 3, 4, 13
+"c:\dev\notes_app\macos\RunnerTests\RunnerTests.swift", "Swift", 7, 0, 0, 2, 4, 13
+"c:\dev\notes_app\macos\Runner\AppDelegate.swift", "Swift", 8, 0, 0, 0, 2, 10
+"c:\dev\notes_app\macos\Runner\Assets.xcassets\AppIcon.appiconset\Contents.json", "JSON", 0, 0, 68, 0, 1, 69
+"c:\dev\notes_app\macos\Runner\Base.lproj\MainMenu.xib", "XML", 0, 343, 0, 0, 1, 344
+"c:\dev\notes_app\macos\Runner\MainFlutterWindow.swift", "Swift", 12, 0, 0, 0, 4, 16
+"Total", "-", 33, 343, 68, 5, 16, 465
