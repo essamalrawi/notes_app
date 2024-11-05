@@ -1,0 +1,43 @@
+Date : 2024-11-04 19:04:06
+Directory : c:\dev\notes_app\lib
+Total : 15 files,  359 codes, 5 comments, 52 blanks, all 416 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Dart     |         15 |        359 |          5 |         52 |        416 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                    | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                       |         15 |        359 |          5 |         52 |        416 |
+| . (Files)                                               |          2 |         23 |          0 |          6 |         29 |
+| models                                                  |          2 |         43 |          4 |         12 |         59 |
+| views                                                   |          1 |         24 |          0 |          3 |         27 |
+| widgets                                                 |         10 |        269 |          1 |         31 |        301 |
++---------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                | language | code       | comment    | blank      | total      |
++---------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\dev\notes_app\lib\constants.dart                     | Dart     |          3 |          0 |          2 |          5 |
+| c:\dev\notes_app\lib\main.dart                          | Dart     |         20 |          0 |          4 |         24 |
+| c:\dev\notes_app\lib\models\note_model.dart             | Dart     |         18 |          0 |          4 |         22 |
+| c:\dev\notes_app\lib\models\note_model.g.dart           | Dart     |         25 |          4 |          8 |         37 |
+| c:\dev\notes_app\lib\views\notes_view.dart              | Dart     |         24 |          0 |          3 |         27 |
+| c:\dev\notes_app\lib\widgets\add_note_bottom_sheet.dart | Dart     |         28 |          0 |          3 |         31 |
+| c:\dev\notes_app\lib\widgets\custom_app_bar.dart        | Dart     |         23 |          0 |          4 |         27 |
+| c:\dev\notes_app\lib\widgets\custom_bottom.dart         | Dart     |         21 |          0 |          3 |         24 |
+| c:\dev\notes_app\lib\widgets\custom_notes_item.dart     | Dart     |         64 |          0 |          3 |         67 |
+| c:\dev\notes_app\lib\widgets\custom_search_icon.dart    | Dart     |         22 |          0 |          2 |         24 |
+| c:\dev\notes_app\lib\widgets\custom_text_field.dart     | Dart     |         25 |          1 |          4 |         30 |
+| c:\dev\notes_app\lib\widgets\edit_note_view.dart        | Dart     |         11 |          0 |          3 |         14 |
+| c:\dev\notes_app\lib\widgets\edit_note_view_body.dart   | Dart     |         35 |          0 |          3 |         38 |
+| c:\dev\notes_app\lib\widgets\notes_list_view.dart       | Dart     |         19 |          0 |          3 |         22 |
+| c:\dev\notes_app\lib\widgets\notes_view_body.dart       | Dart     |         21 |          0 |          3 |         24 |
+| Total                                                   |          |        359 |          5 |         52 |        416 |
++---------------------------------------------------------+----------+------------+------------+------------+------------+
